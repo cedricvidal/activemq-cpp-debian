@@ -13,5 +13,5 @@
 	dh $@  --with autoreconf
 
 override_dh_auto_configure:
-	dh_auto_configure -- --disable-ssl --with-apr=/usr/bin/apr-config
+	dh_auto_configure -- --disable-ssl --with-apr=/usr/bin/apr-1-config
 
