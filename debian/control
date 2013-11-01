@@ -1,7 +1,7 @@
 Source: activemq-cpp
 Priority: extra
 Maintainer: Cedric Vidal <cedric@vidal.biz>
-Build-Depends: debhelper (>= 8.0.0), autotools-dev, libaprutil1-dev (>= 1.5.2), libapr1-dev (>= 1.4.6)
+Build-Depends: debhelper (>= 8.0.0), autotools-dev, libaprutil1-dev (>= 1.5.2), libapr1-dev (>= 1.4.6), dh-autoreconf
 Standards-Version: 3.9.2
 Section: libs
 Homepage: http://activemq.apache.org/cms/
