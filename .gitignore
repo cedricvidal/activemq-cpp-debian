@@ -1,5 +1,12 @@
-*.log
 *.substvars
-*.o
 debian/files
+debian/activemq-cpp3
+debian/activemq-cpp-dev
+
+*.log
+*.o
+*.lo
+*.la
+.deps
+.dirstamp
 
