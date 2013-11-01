@@ -1,0 +1,5 @@
+activemq-cpp (3.7.0-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Cedric Vidal <cedric@vidal.biz>  Thu, 31 Oct 2013 21:14:13 +0100
